@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Công chúa nghe này hihi`,
     btnIntro: 'Ok',
     title: 'Công chúa chuẩn bị ngủ đk? 😙',
-    desc: ' Nhớ tui nữa <3 ',
+    desc: ' Nhớ tui nữa <3',
     btnYes: 'Đúng<33',
     btnNo: 'Không:3',
     question:'Công chúa sẽ gửi ảnh cho tui đúng chứ',
